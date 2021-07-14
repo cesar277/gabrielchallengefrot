@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frotcom.Challenge.SendTrackingDataWorker", "Frotcom.Challenge.SendTrackingDataWorker\Frotcom.Challenge.SendTrackingDataWorker.csproj", "{F7326E12-8975-4EC9-B0CE-E3FCF4952F1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frotcom.Challenge.Queue", "Frotcom.Challenge.Queue\Frotcom.Challenge.Queue.csproj", "{9F3CBAB8-8550-4616-8500-C5185FBC2EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frotcom.Challenge.Data.Models", "Frotcom.Challenge.Data.Models\Frotcom.Challenge.Data.Models.csproj", "{04358714-0455-4A7A-9A20-391842B8C957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frotcom.Challenge.Reverse.Geocoding", "Frotcom.Challenge.Reverse.Geocoding\Frotcom.Challenge.Reverse.Geocoding.csproj", "{FECA5FFB-7526-4EE6-9B13-0BCFCFF8C47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7326E12-8975-4EC9-B0CE-E3FCF4952F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7326E12-8975-4EC9-B0CE-E3FCF4952F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7326E12-8975-4EC9-B0CE-E3FCF4952F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7326E12-8975-4EC9-B0CE-E3FCF4952F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3CBAB8-8550-4616-8500-C5185FBC2EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3CBAB8-8550-4616-8500-C5185FBC2EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3CBAB8-8550-4616-8500-C5185FBC2EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3CBAB8-8550-4616-8500-C5185FBC2EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04358714-0455-4A7A-9A20-391842B8C957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04358714-0455-4A7A-9A20-391842B8C957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04358714-0455-4A7A-9A20-391842B8C957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04358714-0455-4A7A-9A20-391842B8C957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECA5FFB-7526-4EE6-9B13-0BCFCFF8C47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECA5FFB-7526-4EE6-9B13-0BCFCFF8C47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECA5FFB-7526-4EE6-9B13-0BCFCFF8C47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECA5FFB-7526-4EE6-9B13-0BCFCFF8C47F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84BDA34-D4AA-423A-92AF-E0D440AA30DA}
+	EndGlobalSection
+EndGlobal

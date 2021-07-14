@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WA5j7OSJYMJxYSO4SY0NaUuIqSQsk5EBqpdBwjkflmf1TE3I8M6x6r5Z+z+t3nYW9ndo+oOaspWnBysnf1/kHA==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\FrotcomChallenge sln\\gabrielchallengefrot\\Frotcom.Challenge.Data.Models\\Frotcom.Challenge.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

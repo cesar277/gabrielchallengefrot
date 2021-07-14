@@ -1,0 +1,9 @@
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\bin\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.deps.json
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\bin\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\bin\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.csprojAssemblyReference.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.AssemblyInfoInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.AssemblyInfo.cs
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.csproj.CoreCompileInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Reverse.Geocoding\obj\Release\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.pdb

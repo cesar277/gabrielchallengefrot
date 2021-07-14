@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rs6Q36CgbNsp+VwdyfpahYc0FVFn4Pp4bxwQITIZDXidwE7aHRva4T7+74w/qKE9cPEU0E5VtU6JY6G6SLBoUw==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\FrotcomChallenge sln\\gabrielchallengefrot\\Frotcom.Challenge.Reverse.Geocoding\\Frotcom.Challenge.Reverse.Geocoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

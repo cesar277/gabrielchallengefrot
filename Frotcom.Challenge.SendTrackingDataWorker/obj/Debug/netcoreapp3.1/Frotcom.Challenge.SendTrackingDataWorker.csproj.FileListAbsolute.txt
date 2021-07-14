@@ -1,0 +1,208 @@
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.exe
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.deps.json
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.json
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.runtimeconfig.dev.json
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Reverse.Geocoding.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\bin\Debug\netcoreapp3.1\Frotcom.Challenge.Data.Models.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csprojAssemblyReference.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfoInputs.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.AssemblyInfo.cs
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CoreCompileInputs.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.csproj.CopyComplete
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.SendTrackingDataWorker\obj\Debug\netcoreapp3.1\Frotcom.Challenge.SendTrackingDataWorker.genruntimeconfig.cache

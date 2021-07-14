@@ -1,0 +1,76 @@
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\fcardoso2\Downloads\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Desktop\Frotcom Challenge\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\repos\other\FrotcomChallenge\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+C:\Users\Nuno_Cardoso\Downloads\ahah\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.dll
+E:\Repos\FrotcomChallenge sln\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.deps.json
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Data.Models.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\bin\Debug\netstandard2.0\Frotcom.Challenge.Reverse.Geocoding.pdb
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csprojAssemblyReference.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfoInputs.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.AssemblyInfo.cs
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CoreCompileInputs.cache
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.csproj.CopyComplete
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.dll
+E:\Repos\FrotcomChallenge sln\gabrielchallengefrot\Frotcom.Challenge.Queue\obj\Debug\netstandard2.0\Frotcom.Challenge.Queue.pdb
